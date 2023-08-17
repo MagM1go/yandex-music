@@ -1,0 +1,2 @@
+pub(crate) const API_BASE: &str = "https://api.music.yandex.net/";
+pub(crate) const DEVICE: &str = "os=Python; os_version=; manufacturer=magmigo; model=Yandex Music API; clid=; device_id=random; uuid=random";
